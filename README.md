@@ -1,4 +1,14 @@
 ### Hi there 👋
+I'm Bastian, Backend focused php developer
+
+### 📫 How to reach me:
+
+<a href="https://www.bastian-schur.de.de"><img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+<a href="https://www.xing.com/profile/Bastian_Schur"><img align="left" alt="Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" /></a>
+
+### Github Stats:
+<img align="left" alt="Bastian Schur's Github Stats" src="=https://github-readme-stats.vercel.app/api?username=bastian-schur&show_icons=true&theme=nord" />
+
 
 <!--
 **bastian-schur/bastian-schur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
